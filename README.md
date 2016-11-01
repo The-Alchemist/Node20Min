@@ -16,7 +16,7 @@ The presentation has the following sections:
 * [Convention - Callback Last](https://github.com/stdarg/Node20Min/tree/master/03_Convention_Callback) -
   an explanation of the covention around placing the callback last.
 * [Nested Callback](https://github.com/stdarg/Node20Min/tree/master/04_Nested_Callbacks) -
-  dicussion around teh issue of nested callbacks and flow control.
+  dicussion around the issue of nested callbacks and flow control.
 * [Streams](https://github.com/stdarg/Node20Min/tree/master/05_Streams) -
   brief explanation of streams with an example of reading from a stream.
 * [Cluster](https://github.com/stdarg/Node20Min/tree/master/06_Cluster) -
